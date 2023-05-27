@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name ='HousePricePredicton',
+    name ='Regression',
     Version ='1.0.0',
     author= 'Bhargav',
     author_email='bhargavan@iisc.ac.in',
