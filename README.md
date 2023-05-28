@@ -1,4 +1,4 @@
-## House Pricing Prediction Project
+## Regression Project
 
 ### Created a conda environment
 ```commandline
