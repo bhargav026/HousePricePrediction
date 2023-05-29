@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template, jsonify
 
 from src.pipeline.prediction_pipeline import CustomData, PredictPipeline
-#from src.pipeline.training_pipeline import
+
 
 
 application = Flask(__name__)
